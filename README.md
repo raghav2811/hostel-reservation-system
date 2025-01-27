@@ -2,7 +2,6 @@
 
 This repository contains a **Hostel Reservation System** project developed using **Java, HTML, CSS, and JSP**. The system provides functionalities for managing hostel bookings, including room management, student registration, reservation details, and payment tracking.
 
----
 
 ## Features
 
@@ -25,7 +24,6 @@ This repository contains a **Hostel Reservation System** project developed using
 - Record advance and final payments.
 - Generate total payable amounts based on duration.
 
----
 
 ## Technologies Used
 
@@ -34,7 +32,6 @@ This repository contains a **Hostel Reservation System** project developed using
 - **Database**: MySQL
 - **Web Server**: Apache Tomcat.
 
----
 
 ## Getting Started
 
@@ -46,5 +43,4 @@ Before running the project, ensure you have:
 - A database server (e.g., MySQL or PostgreSQL).
 - Basic knowledge of Java, HTML, CSS, and JSP.
 
----
 
